@@ -1,0 +1,39 @@
+/* ----------------------------------------------
+ * 
+ ______   ______     __   __     ______   ______    
+/\  ___\ /\  __ \   /\ "-.\ \   /\__  _\ /\  ___\   
+\ \  __\ \ \ \/\ \  \ \ \-.  \  \/_/\ \/ \ \___  \  
+ \ \_\    \ \_____\  \ \_\\"\_\    \ \_\  \/\_____\ 
+  \/_/     \/_____/   \/_/ \/_/     \/_/   \/_____/ 
+                                                    
+ * ---------------------------------------------- */
+
+@font-face {
+	font-family: "Redaction20";
+	src: url("fonts/Redaction20.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "Redaction35";
+	src: url("fonts/Redaction35.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "Redaction50";
+	src: url("fonts/Redaction50.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "ANK";
+	src: url("fonts/Web437_DOS-V_re_ANK24.woff") format("woff");
+}
+
+@font-face {
+	font-family: "XGA";
+	src: url("fonts/Web437_IBM_XGA-AI_12x20.woff") format("woff");
+}
+
+@font-face {
+	font-family: "TI";
+	src: url("fonts/Web437_Ti_Pro.woff") format("woff");
+}
